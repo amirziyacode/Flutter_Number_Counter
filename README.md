@@ -5,7 +5,6 @@
 
 # Number Counter
 - Animatio
-- .. 
 
 Use this source code in your project
 
