@@ -1,6 +1,36 @@
-# number_counter
+![Swiper](https://xdguru.b-cdn.net/wp-content/uploads/2018/11/Animated-number-counter.jpg)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
-A new Flutter project.
+
+# solarsysteme 
+
+You can get a lot inforamation about plants [UI](https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
+
+Use this source code in your project
+
+ Rate me ⭐
+
+Thank you ☺
+
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+
+## Preview
+![Swiper](https://s6.uupload.ir/files/screen_recording_2022-02-08_at_12.24.15_pm_zsta.gif)
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
