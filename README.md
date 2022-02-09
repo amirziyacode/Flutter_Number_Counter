@@ -22,7 +22,7 @@ Ios ✔️
 
 
 ## Preview
-![Swiper](https://s6.uupload.ir/files/screen_recording_2022-02-08_at_12.24.15_pm_zsta.gif)
+![Number](https://s6.uupload.ir/files/screen_recording_2022-02-08_at_12.24.15_pm_zsta.gif)
 
 
 ## Development Setup
